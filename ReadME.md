@@ -1,11 +1,7 @@
-UTS 32516 Internet Programming Assignment 1 - AUT 2023 - Grocer Store
+# GrocerStore
+A web based ecommerce application designed to cater to the requirements of a Grocery Store using Vanilla JS and PHP.
 
-14358081 - Kawshik Roy
-
-AWS URL (LINK) : http://grocerstore-env.eba-hewg7nvr.us-east-1.elasticbeanstalk.com/GrocerStore
-
-
-File Structure:
+# File Structure:
 
 The files for the Website consists of mainly 5 PHP pages
  - index.php
