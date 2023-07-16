@@ -1,0 +1,1325 @@
+[
+    {
+        "title": "Lettuce",
+        "category": "Fruits and Veggies",
+        "subcategory": "Vegetables",
+        "description": "Fresh Lettuce",
+        "filename": "images\\grocer-products\\specifics\\Lettuce.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Carrot",
+        "category": "Fruits and Veggies",
+        "subcategory": "Vegetables",
+        "description": "Fresh Carrot",
+        "filename": "images\\grocer-products\\specifics\\Carrot.jpg",
+        "price": 2.40,
+        "stock": "Available"
+    },
+    {
+        "title": "Capsicum",
+        "category": "Fruits and Veggies",
+        "subcategory": "Vegetables",
+        "description": "Fresh Capsicum",
+        "filename": "images\\grocer-products\\specifics\\Capsicum.jpg",
+        "price": 2.23,
+        "stock": "Available"
+    },
+    {
+        "title": "Cauliflower",
+        "category": "Fruits and Veggies",
+        "subcategory": "Vegetables",
+        "description": "Fresh Cauliflower",
+        "filename": "images\\grocer-products\\specifics\\Cauliflower.jpg",
+        "price": 2.90,
+        "stock": "Available"
+    },
+    {
+        "title": "Tomato",
+        "category": "Fruits and Veggies",
+        "subcategory": "Vegetables",
+        "description": "Fresh Tomato",
+        "filename": "images\\grocer-products\\specifics\\Tomato.jpg",
+        "price": 1.25,
+        "stock": "Available"
+    },
+    {
+        "title": "Apple",
+        "category": "Fruits and Veggies",
+        "subcategory": "Fruits",
+        "description": "Fresh Apple",
+        "filename": "images\\grocer-products\\specifics\\Apple.jpg",
+        "price": 1.31,
+        "stock": "Available"
+    },
+    {
+        "title": "Banana",
+        "category": "Fruits and Veggies",
+        "subcategory": "Fruits",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Banana.jpg",
+        "price": 0.63,
+        "stock": "Available"
+    },
+    {
+        "title": "Orange",
+        "category": "Fruits and Veggies",
+        "subcategory": "Fruits",
+        "description": "Fresh Orange",
+        "filename": "images\\grocer-products\\specifics\\Orange.jpg",
+        "price": 1.58,
+        "stock": "Available"
+    },
+    {
+        "title": "Grapes",
+        "category": "Fruits and Veggies",
+        "subcategory": "Fruits",
+        "description": "Fresh Grapes",
+        "filename": "images\\grocer-products\\specifics\\Grapes.jpg",
+        "price": 4.28,
+        "stock": "Available"
+    },
+    {
+        "title": "Pineapple",
+        "category": "Fruits and Veggies",
+        "subcategory": "Fruits",
+        "description": "Fresh Pineapple",
+        "filename": "images\\grocer-products\\specifics\\Pineapple.jpg",
+        "price": 3.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Chicken Breast",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Poultry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Chicken_Breast.jpg",
+        "price": 11.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Turkey Legs",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Poultry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Turkey_Legs.jpg",
+        "price": 22.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Duck Wings",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Poultry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Duck_Wings.jpeg",
+        "price": 14.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Quail Meat",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Poultry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Quail.jpg",
+        "price": 13.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Goose Liver",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Poultry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Goose_Liver.jpg",
+        "price": 17.30,
+        "stock": "Available"
+    },
+    {
+        "title": "Beef",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Meat",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Beef.jpg",
+        "price": 12.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Pork",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Meat",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Pork.jpg",
+        "price": 12.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Lamb",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Meat",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Lamb.jpg",
+        "price": 14.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Salmon",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Salmon.jpg",
+        "price": 29.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Shrimp",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Shrimp.jpg",
+        "price": 26.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Tuna",
+        "category": "Meat, Seafood & Deli",
+        "subcategory": "Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Tuna.png",
+        "price": 18.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Baguette",
+        "category": "Bakery",
+        "subcategory": "Instore",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Baguette.jpg",
+        "price": 1.90,
+        "stock": "Available"
+    },
+    {
+        "title": "White Bread",
+        "category": "Bakery",
+        "subcategory": "Instore",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\White_Bread.jpg",
+        "price": 4.30,
+        "stock": "Available"
+    },
+    {
+        "title": "French Stick",
+        "category": "Bakery",
+        "subcategory": "Instore",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\French_Stick.jpg",
+        "price": 1.90,
+        "stock": "Available"
+    },
+    {
+        "title": "Turkish Rolls",
+        "category": "Bakery",
+        "subcategory": "Packaged",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Turkish_Rolls.jpg",
+        "price": 2.95,
+        "stock": "Available"
+    },
+    {
+        "title": "Wholegrain Wraps",
+        "category": "Bakery",
+        "subcategory": "Packaged",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Wholegrain_Wraps.jpg",
+        "price": 5.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Wholemeal Sandwich Bread",
+        "category": "Bakery",
+        "subcategory": "Packaged",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Wholemeal_Sandwich_Bread.jpg",
+        "price": 3.90,
+        "stock": "Available"
+    },
+    {
+        "title": "Cheddar Cheese",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Cheese",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Chedder_Cheese.jpeg",
+        "price": 8.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Blue Cheese",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Cheese",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Blue_Cheese.jpg",
+        "price": 7.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Gouda Cheese",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Cheese",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Gouda.jpg",
+        "price": 5.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Feta Cheese",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Cheese",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Feta_Cheese.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Soya Milk",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Soya_Milk.jpg",
+        "price": 1.15,
+        "stock": "Available"
+    },
+    {
+        "title": "Full Cream Milk",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Full_Cream_Milk.jpg",
+        "price": 3.10,
+        "stock": "Available"
+    },
+    {
+        "title": "Almond Milk",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Almond_Milk.jpg",
+        "price": 3.30,
+        "stock": "Available"
+    },
+    {
+        "title": "Chocolate Milk",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Chocolate_Milk.jpg",
+        "price": 5.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Greek Yoghurt",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Yoghurt",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Greek_Yoghurt.jpg",
+        "price": 6.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Plain Yoghurt",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Yoghurt",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Plain_Yoghurt.jpg",
+        "price": 6.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Fruit-Flavored Yoghurt",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Yoghurt",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Fruit_Flavoured_Yoghurt.jpg",
+        "price": 2.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Organic Free-Range Eggs",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Eggs",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Organic_Free_Range_Eggs.jpg",
+        "price": 11.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Cage-Free Brown Eggs",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Eggs",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cage_Free_Brown_Eggs.jpg",
+        "price": 4.60,
+        "stock": "Available"
+    },
+    {
+        "title": "Organic Omega-3 Eggs",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Eggs",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Organic_Omega3_Eggs.jpg",
+        "price": 12.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Salted Butter",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Butter & Margarine",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Salted_Butter.jpg",
+        "price": 7.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Unsalted Butter",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Butter & Margarine",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Unsalted_Butter.jpg",
+        "price": 7.20,
+        "stock": "Available"
+    },
+    {
+        "title": "Margarine",
+        "category": "Dairy, Eggs & Fridge",
+        "subcategory": "Butter & Margarine",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Margarine.jpeg",
+        "price": 5.25,
+        "stock": "Available"
+    },
+    {
+        "title": "Earl Grey Tea",
+        "category": "Pantry",
+        "subcategory": "Tea & Coffee",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Earl_Grey_Tea.jpg",
+        "price": 6.75,
+        "stock": "Available"
+    },
+    {
+        "title": "French Roast Coffee",
+        "category": "Pantry",
+        "subcategory": "Tea & Coffee",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\French_Roast_Coffee.jpg",
+        "price": 14.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Green Tea",
+        "category": "Pantry",
+        "subcategory": "Tea & Coffee",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Green_Tea.jpg",
+        "price": 6.75,
+        "stock": "Available"
+    },
+    {
+        "title": "All-Purpose Flour",
+        "category": "Pantry",
+        "subcategory": "Baking",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\All_Purpose_Flour.jpg",
+        "price": 1.15,
+        "stock": "Available"
+    },
+    {
+        "title": "Baking Powder",
+        "category": "Pantry",
+        "subcategory": "Baking",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Baking_Powder.jpg",
+        "price": 2.85,
+        "stock": "Available"
+    },
+    {
+        "title": "Baking Soda",
+        "category": "Pantry",
+        "subcategory": "Baking",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Baking_Soda.jpg",
+        "price": 2.45,
+        "stock": "Available"
+    },
+    {
+        "title": "Cumin Powder",
+        "category": "Pantry",
+        "subcategory": "Herbs & Spices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cumin_Powder.jpg",
+        "price": 1.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Turmeric Powder",
+        "category": "Pantry",
+        "subcategory": "Herbs & Spices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Turmeric_Powder.jpg",
+        "price": 1.20,
+        "stock": "Available"
+    },
+    {
+        "title": "Basil Leaves",
+        "category": "Pantry",
+        "subcategory": "Herbs & Spices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Basil_Leaves.jpg",
+        "price": 1.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Garlic Powder",
+        "category": "Pantry",
+        "subcategory": "Herbs & Spices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Garlic_Powder.jpg",
+        "price": 2.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Ketchup",
+        "category": "Pantry",
+        "subcategory": "Condiments",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Ketchup.jpg",
+        "price": 4.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Mayonnaise",
+        "category": "Pantry",
+        "subcategory": "Condiments",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mayonnaise.jpg",
+        "price": 8.30,
+        "stock": "Available"
+    },
+    {
+        "title": "Mustard",
+        "category": "Pantry",
+        "subcategory": "Condiments",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mustard.jpg",
+        "price": 3.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Soy Sauce",
+        "category": "Pantry",
+        "subcategory": "Condiments",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Soy_Sauce.jpeg",
+        "price": 4.70,
+        "stock": "Available"
+    },
+    {
+        "title": "Extra Virgin Olive Oil",
+        "category": "Pantry",
+        "subcategory": "Oil & Vinegar",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Extra_Virgin_Olive_Oil.jpg",
+        "price": 5.40,
+        "stock": "Available"
+    },
+    {
+        "title": "Balsamic Vinegar",
+        "category": "Pantry",
+        "subcategory": "Oil & Vinegar",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Balsamic_Vinegar.jpg",
+        "price": 2.70,
+        "stock": "Available"
+    },
+    {
+        "title": "Sesame Oil",
+        "category": "Pantry",
+        "subcategory": "Oil & Vinegar",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sesame_Oil.jpg",
+        "price": 3.30,
+        "stock": "Available"
+    },
+    {
+        "title": "Apple Cider Vinegar",
+        "category": "Pantry",
+        "subcategory": "Oil & Vinegar",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Apple_Cider_Vinegar.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Spearmint Gum",
+        "category": "Snacks",
+        "subcategory": "Gum",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Spearmint.jpg",
+        "price": 4.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Cinnamon Gum",
+        "category": "Snacks",
+        "subcategory": "Gum",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cinnamon_Gum.jpeg",
+        "price": 3.80,
+        "stock": "Available"
+    },
+    {
+        "title": "Bubble Gum",
+        "category": "Snacks",
+        "subcategory": "Gum",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Bubblegum.jpg",
+        "price": 2.70,
+        "stock": "Available"
+    },
+    {
+        "title": "Peppermint Lozenges",
+        "category": "Snacks",
+        "subcategory": "Mints & Lozenges",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Peppermint_Lozenges.jpg",
+        "price": 3.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Wintergreen Mints",
+        "category": "Snacks",
+        "subcategory": "Mints & Lozenges",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Wintergreen_Mints.jpg",
+        "price": 3.20,
+        "stock": "Available"
+    },
+    {
+        "title": "Honey Lemon Drops",
+        "category": "Snacks",
+        "subcategory": "Mints & Lozenges",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Honey_Lemon_Drops.jpg",
+        "price": 10.69,
+        "stock": "Available"
+    },
+    {
+        "title": "Ginger Chews",
+        "category": "Snacks",
+        "subcategory": "Mints & Lozenges",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Ginger_Chews.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Barbecue Potato Chips",
+        "category": "Snacks",
+        "subcategory": "Chips",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\BBQ_Chips.jpg",
+        "price": 4.80,
+        "stock": "Available"
+    },
+    {
+        "title": "Sour Cream & Onion Potato Chips",
+        "category": "Snacks",
+        "subcategory": "Chips",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sour_Cream_&_Onion_Potato_Chips.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Salt & Vinegar Potato Chips",
+        "category": "Snacks",
+        "subcategory": "Chips",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Salt_&_Vinegar_Potato_Chips.jpg",
+        "price": 4.80,
+        "stock": "Available"
+    },
+    {
+        "title": "Ritz Crackers",
+        "category": "Snacks",
+        "subcategory": "Biscuits & Crackers",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Ritz_Crackers.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Wheat Thins",
+        "category": "Snacks",
+        "subcategory": "Biscuits & Crackers",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Wheat_Thins.jpg",
+        "price": 2.85,
+        "stock": "Available"
+    },
+    {
+        "title": "Cheez-It Crackers",
+        "category": "Snacks",
+        "subcategory": "Biscuits & Crackers",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cheez_It_Crackers.jpg",
+        "price": 3.50,
+        "stock": "Available"
+    },
+    {
+        "title": "Oreo Cookies",
+        "category": "Snacks",
+        "subcategory": "Biscuits & Crackers",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Oreo.jpg",
+        "price": 1.75,
+        "stock": "Available"
+    },
+    {
+        "title": "Four Cheese Pizza",
+        "category": "Freezer",
+        "subcategory": "Frozen Pizza",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Four_Cheese_Pizza.jpg",
+        "price": 9.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Meatlovers BBQ Pizza",
+        "category": "Freezer",
+        "subcategory": "Frozen Pizza",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Meatlovers_BBQ_Pizza.jpg",
+        "price": 9.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Hawaiian Pizza",
+        "category": "Freezer",
+        "subcategory": "Frozen Pizza",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Hawaiian_Pizza.jpg",
+        "price": 5.00,
+        "stock": "Available"
+    },
+    {
+        "title": "Apple Pie",
+        "category": "Freezer",
+        "subcategory": "Frozen Pie",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Apple_Pie.jpg",
+        "price": 8.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Pumpkin Pie",
+        "category": "Freezer",
+        "subcategory": "Frozen Pie",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Pumpkin_Pie.jpg",
+        "price": 9.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Blueberry Pie",
+        "category": "Freezer",
+        "subcategory": "Frozen Pie",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Blueberry_Pie.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Pecan Pie",
+        "category": "Freezer",
+        "subcategory": "Frozen Pie",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Pecan_Pie.jpg",
+        "price": 10.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Vanilla Ice Cream",
+        "category": "Freezer",
+        "subcategory": "Ice Cream",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Vanilla_Ice_Cream.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Chocolate Chip Cookie Dough Ice Cream",
+        "category": "Freezer",
+        "subcategory": "Ice Cream",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Chocolate_Chip_Ice_Cream.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Strawberry Ice Cream",
+        "category": "Freezer",
+        "subcategory": "Ice Cream",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Strawberry_Icecream.jpg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Mint Chocolate Chip Ice Cream",
+        "category": "Freezer",
+        "subcategory": "Ice Cream",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mint_Chocolate_Chip_Ice_Cream.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Shrimp",
+        "category": "Freezer",
+        "subcategory": "Frozen Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Shrimp.jpg",
+        "price": 8.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Salmon Fillets",
+        "category": "Freezer",
+        "subcategory": "Frozen Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Salmon_Fillets.jpg",
+        "price": 12.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Crab Cakes",
+        "category": "Freezer",
+        "subcategory": "Frozen Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Crab_Cakes.png",
+        "price": 9.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Breaded Cod",
+        "category": "Freezer",
+        "subcategory": "Frozen Seafood",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Breaded_Cod.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Curly Fries",
+        "category": "Freezer",
+        "subcategory": "Frozen Wedges & Fries",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Curly_Fries.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Waffle Fries",
+        "category": "Freezer",
+        "subcategory": "Frozen Wedges & Fries",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Waffle_Fries.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Tater Tots",
+        "category": "Freezer",
+        "subcategory": "Frozen Wedges & Fries",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Tater_Tots.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Sweet Potato Fries",
+        "category": "Freezer",
+        "subcategory": "Frozen Wedges & Fries",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sweet_Potato_Fries.jpg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Coca-Cola",
+        "category": "Drinks",
+        "subcategory": "Soft Drinks",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Coca-Cola.jpg",
+        "price": 1.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Pepsi",
+        "category": "Drinks",
+        "subcategory": "Soft Drinks",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Pepsi.jpg",
+        "price": 1.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Sprite",
+        "category": "Drinks",
+        "subcategory": "Soft Drinks",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sprite.jpg",
+        "price": 1.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Dasani Water",
+        "category": "Drinks",
+        "subcategory": "Water",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Dasani.jpg",
+        "price": 1.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Fiji Water",
+        "category": "Drinks",
+        "subcategory": "Water",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Fiji_Water.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Evian Water",
+        "category": "Drinks",
+        "subcategory": "Water",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Evian_Water.jpg",
+        "price": 3.49,
+        "stock": "Available"
+    },
+    {
+        "title": "Whole Milk",
+        "category": "Drinks",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Whole_Milk.png",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Chocolate Milk",
+        "category": "Drinks",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Chocolate_Milk.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Strawberry Milk",
+        "category": "Drinks",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Strawberry_Milk.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Vanilla Milk",
+        "category": "Drinks",
+        "subcategory": "Milk",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Vanilla_Milk.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Orange Juice",
+        "category": "Drinks",
+        "subcategory": "Juices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Orange_Juice.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Mango Juice",
+        "category": "Drinks",
+        "subcategory": "Juices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mango_Juice.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Grapefruit Juice",
+        "category": "Drinks",
+        "subcategory": "Juices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Grapefruit_Juice.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Cranberry Juice",
+        "category": "Drinks",
+        "subcategory": "Juices",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cranberry_Juice.jpg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Sweet Tea",
+        "category": "Drinks",
+        "subcategory": "Iced Teas",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sweet_Tea.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Arnold Palmer",
+        "category": "Drinks",
+        "subcategory": "Iced Teas",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Arnold_Palmer.png",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Peach Tea",
+        "category": "Drinks",
+        "subcategory": "Iced Teas",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Peach_Tea.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Green Tea",
+        "category": "Drinks",
+        "subcategory": "Iced Teas",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Green_Tea.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "L'Oreal Paris Elvive Dream Lengths Shampoo",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Hair Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Elvive.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Pantene Pro-V Daily Moisture Renewal Conditioner",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Hair Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Pantene.jpeg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "TRESemme TRES Two Hair Spray",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Hair Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\TRESemme.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Herbal Essences Bio Renew Shampoo",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Hair Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Herbal_Essences_Bio-Renew_Shampoo.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Neutrogena Oil-Free Acne Wash",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Skin Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Neutrogena.jpg",
+        "price": 8.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Cetaphil Daily Facial Cleanser",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Skin Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Cetaphil.png",
+        "price": 11.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Olay Regenerist Retinol 24 Night Moisturizer",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Skin Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Olay.jpg",
+        "price": 28.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Aveeno Positively Radiant Daily Moisturizer",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Skin Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Aveeno.jpg",
+        "price": 14.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Oral-B Pro 1000 Electric Toothbrush",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Dental Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Oral-B.jpg",
+        "price": 49.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Crest 3D White Toothpaste",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Dental Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Crest_3D.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Listerine Antiseptic Mouthwash",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Dental Care",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Listerine.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Dove Body Wash",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Personal Care & Hygiene",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Dove.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Gillette Mach3 Razor",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Personal Care & Hygiene",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mach3.jpg",
+        "price": 9.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Secret Clinical Strength Deodorant",
+        "category": "Beauty & Personal Care",
+        "subcategory": "Personal Care & Hygiene",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Secret_Clinic.jpg",
+        "price": 11.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Clorox Disinfecting Wipes",
+        "category": "Household",
+        "subcategory": "Cleaning Goods",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Clorox.jpg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Mr. Clean Magic Eraser",
+        "category": "Household",
+        "subcategory": "Cleaning Goods",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Mr_Clean.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Swiffer WetJet Floor Cleaner",
+        "category": "Household",
+        "subcategory": "Cleaning Goods",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Swiffer.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Lysol Disinfectant Spray",
+        "category": "Household",
+        "subcategory": "Cleaning Goods",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Lysol_Disinfectant_Spray.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Clorox Toilet Bowl Cleaner",
+        "category": "Household",
+        "subcategory": "Bathroom",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Clorox_Toilet_Creaner.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Lysol Bathroom Cleaner",
+        "category": "Household",
+        "subcategory": "Bathroom",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Lysol_Bathroom_Cleaner.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Dawn Powerwash Dish Spray",
+        "category": "Household",
+        "subcategory": "Bathroom",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Dawn_Powerwash.jpg",
+        "price": 5.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Scrubbing Bubbles Bathroom Grime Fighter",
+        "category": "Household",
+        "subcategory": "Bathroom",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Grime_Fighter.jpg",
+        "price": 3.49,
+        "stock": "Available"
+    },
+    {
+        "title": "Dishwashing Liquid",
+        "category": "Household",
+        "subcategory": "Kitchen",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Dishwashing_Liquid.jpg",
+        "price": 2.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Paper Towels",
+        "category": "Household",
+        "subcategory": "Kitchen",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Paper_Towel.jpg",
+        "price": 3.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Aluminum Foil",
+        "category": "Household",
+        "subcategory": "Kitchen",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Aluminum_Foil.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Sponge",
+        "category": "Household",
+        "subcategory": "Kitchen",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Sponge.jpg",
+        "price": 1.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Tide Laundry Detergent",
+        "category": "Household",
+        "subcategory": "Laundry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Tide.jpg",
+        "price": 12.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Downy Fabric Softener",
+        "category": "Household",
+        "subcategory": "Laundry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Downy.jpg",
+        "price": 8.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Bounce Dryer Sheets",
+        "category": "Household",
+        "subcategory": "Laundry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Bounce.jpg",
+        "price": 4.99,
+        "stock": "Available"
+    },
+    {
+        "title": "OxiClean Stain Remover",
+        "category": "Household",
+        "subcategory": "Laundry",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\OxiClean.jpg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Raid Ant & Roach Killer",
+        "category": "Household",
+        "subcategory": "Pest Control",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Raid.jpeg",
+        "price": 6.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Ortho Home Defense Insect Killer",
+        "category": "Household",
+        "subcategory": "Pest Control",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Ortho.jpg",
+        "price": 14.99,
+        "stock": "Available"
+    },
+    {
+        "title": "Terro Liquid Ant Baits",
+        "category": "Household",
+        "subcategory": "Pest Control",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Terro.jpg",
+        "price": 5.49,
+        "stock": "Available"
+    },
+    {
+        "title": "Spectracide Carpenter Bee & Ground-Nesting Yellowjacket Killer Foam",
+        "category": "Household",
+        "subcategory": "Pest Control",
+        "description": "",
+        "filename": "images\\grocer-products\\specifics\\Spectracide.jpg",
+        "price": 7.99,
+        "stock": "Available"
+    }
+]
